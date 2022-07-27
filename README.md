@@ -132,4 +132,4 @@ go get -u github.com/swaggo/files
 
 swag init
 
-gin swagger 버전업으로 다시 셋팅 필요 - 패키지 내부 관리 하는 방법 생각해봐야?
+http://localhost:8080/swagger/index.html - docs 확인

@@ -7,8 +7,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 
+	swaggerFiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
-	swaggerFiles "github.com/swaggo/gin-swagger/swaggerFiles"
 )
 
 // parm db *gorm.DB
